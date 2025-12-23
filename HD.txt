@@ -1,5 +1,0 @@
-cd "C:\Users\maixu\Desktop\CODE\UP GIT"
-
-git add update.zip version
-git commit -m "Update artifacts to v1.1.4"
-git push
